@@ -2355,8 +2355,8 @@ color: #000000;
 
   @media only screen and (max-width: 413px){
       .big_logo{
-          height: 60vh;
-          margin-left: 25%;
+          height: 30vh;
+          margin-left: 10%;
       }
       .rotate{
           display: none;
@@ -2365,22 +2365,27 @@ color: #000000;
           display: none;
       }
       .description{
-          font-size: 2rem;
-          margin-left: 50%;
+          font-size: 0.8rem;
+          margin-left: 13%;
+          margin-right: 40%;
       }
       .food{
           margin-left: 60vw;
+          display: none;
       }
       .chef{
           margin-top: 40%;
           margin-left: 40%;
+          display: none;
       }
       .chef_count{
           margin-top: 60%;
           margin-left: 8vw;
+          display: none;
       }
       .vertical__dash{
           margin-top: 40%;
+          display: none;
           margin-left: 5vw;
       }
       .dash{
@@ -2390,29 +2395,36 @@ color: #000000;
           margin-top: 60%;
           margin-left: 3%;
           height: 70vh;
+          display: none;
       }
       .customer_count{
           margin-top: 60%;
+          display: none;
 
       }
       .customer{
           margin-top: 40%;
+          display: none;
       }
       .vertical__dash2{
           margin-top: 40%;
-          left:125vw
+          left:125vw;
+          display: none;
       }
       .heading_about{
           margin-top: 130%;
+          display: none;
       }
       .about_description{
           font-size: 3rem;
           /* margin-left: 20%; */
           line-height: 55px;
           width: 80vw;
+          display:none;
       }
       .service{
           margin-left: 90%;
+          display: none;
       }
 
   }
